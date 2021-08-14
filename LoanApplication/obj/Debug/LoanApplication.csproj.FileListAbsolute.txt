@@ -1,0 +1,58 @@
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe.config
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\bin\Debug\LoanApplication.pdb
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csprojAssemblyReference.cache
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\MainWindow.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\App.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication_MarkupCompile.cache
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication_MarkupCompile.lref
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\MainWindow.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.g.resources
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.Properties.Resources.resources
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.GenerateResource.cache
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.CoreCompileInputs.cache
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.exe
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\LoanApplication.pdb
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\HomeLoanWPF.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\HomeLoanWPF.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\PropertyPurchase.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\PropertyPurchase.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\PropertyReceipt.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\PropertyReceipt.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\RentWPF.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\RentWPF.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\VehicleLoanWPF.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\VehicleLoanWPF.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\VehicleReceipt.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\VehicleReceipt.baml
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\SaveMoneyWPF.g.cs
+C:\Users\sinel\source\repos\LoanApplication\LoanApplication\obj\Debug\SaveMoneyWPF.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe.config
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\bin\Debug\LoanApplication.exe
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\bin\Debug\LoanApplication.pdb
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csprojAssemblyReference.cache
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\HomeLoanWPF.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\MainWindow.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\PropertyPurchase.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\PropertyReceipt.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\RentWPF.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\SaveMoneyWPF.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\VehicleLoanWPF.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\VehicleReceipt.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\App.g.cs
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication_MarkupCompile.cache
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication_MarkupCompile.lref
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\HomeLoanWPF.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\MainWindow.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\PropertyPurchase.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\PropertyReceipt.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\RentWPF.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\SaveMoneyWPF.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\VehicleLoanWPF.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\VehicleReceipt.baml
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.g.resources
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.Properties.Resources.resources
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.GenerateResource.cache
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.csproj.CoreCompileInputs.cache
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.exe
+C:\Users\sinel\Desktop\Sinelihle Ngqaza_20108376_PROG6211_FInal POE\POE Final Task\LoanApplication\LoanApplication\obj\Debug\LoanApplication.pdb

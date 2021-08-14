@@ -1,0 +1,23 @@
+﻿<Window x:Class="LoanApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoanApplication"
+        mc:Ignorable="d"
+        Title="Loan Application" Height="450" Width="569.963" Foreground="Black" Loaded="Window_Loaded">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="1"/>
+            <GradientStop Color="#FF3B4D57" Offset="0.07"/>
+            <GradientStop Color="#FF868489" Offset="0.984"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <Label Content="Please Select Loan Type" HorizontalAlignment="Left" Margin="183,33,0,0" VerticalAlignment="Top" Width="236" Foreground="White" Height="39" FontSize="20"/>
+        <Button Content="Home Loan" HorizontalAlignment="Left" Margin="178,106,0,0" VerticalAlignment="Top" Width="236" Height="60" FontSize="15" FontWeight="Black" Click="Button_Click" Foreground="WHite" Background="Black"/>
+        <Button Content="Vehicle Loan" HorizontalAlignment="Left" Margin="178,200,0,0" VerticalAlignment="Top" Width="236" Height="60" FontSize="15" FontWeight="Black" Foreground="WHite" Background="Black" Click="Button_Click_1"/>
+        <Button Content="Save Money" HorizontalAlignment="Left" Margin="178,286,0,0" VerticalAlignment="Top" Width="236" Height="60" FontSize="15" FontWeight="Black" Foreground="WHite" Background="Black" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

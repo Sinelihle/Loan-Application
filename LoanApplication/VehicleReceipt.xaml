@@ -1,0 +1,32 @@
+﻿<Window x:Class="LoanApplication.VehicleReceipt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LoanApplication"
+        mc:Ignorable="d"
+        Title="Vehicle Receipt" Height="484.615" Width="800" Loaded="Window_Loaded">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FF868489" Offset="1"/>
+            <GradientStop Color="#FF3B4D57"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <TextBlock x:Name="vehicleMonthyCostBox" HorizontalAlignment="Left" Margin="392,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="white" FontSize="15" Height="40" Width="161"/>
+        <TextBlock HorizontalAlignment="Left" TextAlignment="Center" FontWeight="Bold" Margin="192,27,0,0" TextWrapping="Wrap" Text="Vehicle Loan Receipt" VerticalAlignment="Top" Foreground="white" FontSize="20" Height="39" Width="377"/>
+        <Label Content="Total Monthly Cost" HorizontalAlignment="Left" Margin="134,102,0,0" VerticalAlignment="Top" Width="135" Foreground="white" FontSize="15" Height="36"/>
+        <TextBlock x:Name="purchasePriceBox" HorizontalAlignment="Left" Margin="392,139,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="white" FontSize="15" Height="40" Width="161"/>
+        <Label Content="Purchase Price" HorizontalAlignment="Left" Margin="134,143,0,0" VerticalAlignment="Top" Width="135" Foreground="white" FontSize="15" Height="36"/>
+        <TextBlock x:Name="depositBox" HorizontalAlignment="Left" Margin="392,184,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="white" FontSize="15" Height="40" Width="161"/>
+        <Label Content="Deposit" HorizontalAlignment="Left" Margin="134,184,0,0" VerticalAlignment="Top" Width="135" Foreground="white" FontSize="15" Height="36"/>
+        <TextBlock x:Name="interestRateBox" HorizontalAlignment="Left" Margin="392,225,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="white" FontSize="15" Height="40" Width="161"/>
+        <Label Content="Interest Rate" HorizontalAlignment="Left" Margin="134,225,0,0" VerticalAlignment="Top" Width="135" Foreground="white" FontSize="15" Height="36"/>
+        <Label Content="Total Cost" HorizontalAlignment="Left" Margin="134,266,0,0" VerticalAlignment="Top" Width="135" Foreground="white" FontSize="15" Height="36"/>
+        <TextBlock x:Name="totalCostBox" HorizontalAlignment="Left" Margin="392,262,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="white" FontSize="15" Height="40" Width="161"/>
+        <TextBlock x:Name="notifyBox" HorizontalAlignment="Left" Margin="134,330,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Foreground="red" FontSize="15 " Height="39" Width="419"/>
+        <Button Content="Back" HorizontalAlignment="Left" Margin="98,409,0,0" VerticalAlignment="Top" Width="77" Height="35" Foreground="white" Background="Black" Click="Button_Click"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="254,409,0,0" VerticalAlignment="Top" Width="77" Height="35" Foreground="white" Background="Black" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
